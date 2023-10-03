@@ -3,6 +3,7 @@ GCGALDA： Prediction of lncRNA-disease association based on graph convolution a
 ### DATA
 DATA：
 DiseaseSimilarityModel.csv：Disease semantic similarity
+
 RNASiNet.csv：functional similarity for lncRNAs
 ### Requirements
 pytorch
