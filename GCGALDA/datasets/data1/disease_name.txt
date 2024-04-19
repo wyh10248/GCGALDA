@@ -1,0 +1,218 @@
+urinary bladder Neoplasms
+melanoma
+"Carcinoma, Hepatocellular"
+stomach Neoplasms
+"Telangiectasia, Hereditary Hemorrhagic"
+Adenocarcinoma of Lung
+Uterine Cervical Neoplasms
+neuroblastoma
+lung Neoplasms
+pancreatic Neoplasms
+colorectal Neoplasms
+pancreatic ductal adenocarcinoma
+"Carcinoma, Squamous Cell"
+Heart Diseases
+breast Neoplasms
+ovarian Neoplasms
+esophageal Neoplasms
+glioblastoma
+"Mesothelioma, Malignant"
+osteosarcoma
+rhabdomyosarcoma
+"Depressive Disorder, Major"
+liver cirrhosis
+Alzheimer Disease
+Colonic Neoplasms
+"Myositis, Inclusion Body"
+sarcoma
+Neoplasms
+microinvasive gastric Neoplasms
+Parotid Neoplasms
+tongue Neoplasms
+Prostatic Neoplasms
+schizophrenia
+retinoblastoma
+Huntington Disease
+obesity
+chromophobe renal cell carcinoma
+liver Neoplasms
+"Leukemia, Myeloid, Acute"
+tongue squamous cell carcinoma
+"Carcinoma, Basal Cell"
+carcinoma
+Inflammatory Bowel Diseases
+tuberculosis
+"Diabetes Mellitus, Type 2"
+coronary artery disease
+endometriosis
+Heart Failure
+gallbladder Neoplasms
+atherosclerosis
+myocardial infarction
+hypertension
+laryngeal squamous cell carcinoma
+medulloblastoma
+"Aortic Aneurysm, Abdominal"
+acute myocardial infarction
+aortic aneurysm
+arteriosclerotic cardiovascular disease
+cardiovascular system disease
+carotid stenosis
+diabetes mellitus
+glaucoma
+intracranial aneurysm
+leukemia
+Primary Myelofibrosis
+nervous system Neoplasms
+periodontitis
+Peripheral Arterial Disease
+"Neurofibroma, Plexiform"
+"Glaucoma, Open-Angle"
+bladder urothelial carcinoma
+"Leukemia, Lymphocytic, Chronic, B-Cell"
+clear cell renal cell carcinoma
+"Carcinoma, Renal Cell"
+intrahepatic cholangiocarcinoma
+multiple myeloma
+childhood medulloblastoma
+gallbladder carcinoma
+hepatoblastoma
+Squamous Cell Carcinoma of Head and Neck
+cholangiocarcinoma
+endometrial Neoplasms
+Bone Diseases
+brain Neoplasms
+oral squamous cell carcinoma
+myeloid neoplasm
+lymphoma
+Myotonic Dystrophy
+Parkinson Disease
+"Carcinoma, Embryonal"
+Lipid Metabolism Disorders
+Pharyngeal Neoplasms
+"Arthritis, Rheumatoid"
+bladder carcinoma
+pterygium
+"Colitis, Ulcerative"
+uveal melanoma
+pituitary adenoma
+endometrial carcinoma
+polycystic ovary syndrome
+osteoarthritis
+kidney Neoplasms
+"Lymphoma, B-Cell"
+head and neck Neoplasms
+"Lymphoma, Mantle-Cell"
+"Leukemia, Myeloid"
+papillary renal cell carcinoma
+Prader-Willi syndrome
+Wilms Tumor
+gastric adenocarcinoma
+Digestive System Neoplasms
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+testicular Neoplasms
+gastric cardia adenocarcinoma
+pre-eclampsia
+adenocarcinoma
+adrenocortical carcinoma
+Aortic Valve Disease
+Beckwith-Wiedemann syndrome
+breast adenocarcinoma
+Central Nervous System Diseases
+choriocarcinoma
+colon carcinoma
+"Neoplasms, Germ Cell and Embryonal"
+gestational choriocarcinoma
+Gestational Trophoblastic Disease
+hyperhomocysteinemia
+hyperprolactinemia
+infertility
+meningioma
+myeloproliferative neoplasm
+pneumoconiosis
+polycythemia vera
+Silver-Russell syndrome
+Trophoblastic Neoplasms
+"Leukemia, Promyelocytic, Acute"
+Hodgkin Disease
+colorectal adenocarcinoma
+acquired immunodeficiency syndrome
+HELLP syndrome
+esophagus adenocarcinoma
+maxillary sinus squamous cell carcinoma
+"Spondylitis, Ankylosing"
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+skin melanoma
+gemistocytic astrocytoma
+Intervertebral Disc Degeneration
+exfoliation syndrome
+lung squamous cell carcinoma
+cervical squamous cell carcinoma
+Small Cell Lung Carcinoma
+"Lupus Erythematosus, Systemic"
+"Lymphoma, Large B-Cell, Diffuse"
+triple-receptor negative breast Neoplasms
+"Sarcoma, Ewing"
+pancreatic carcinoma
+"Leukemia, Monocytic, Acute"
+amyotrophic lateral sclerosis
+endometrial adenocarcinoma
+"Sarcoma, Endometrial Stromal"
+fatty liver disease
+fibrosarcoma
+histiocytoid hemangioma
+Klatskin Tumor
+ovarian endometrial Neoplasms
+primary pulmonary hypertension
+retinal degeneration
+uterine Neoplasms
+uterine corpus endometrial stromal sarcoma
+vulva squamous cell carcinoma
+monocytic leukemia
+"Epilepsy, Temporal Lobe"
+"Pulmonary Disease, Chronic Obstructive"
+esophagus squamous cell carcinoma
+Hirschsprung Disease
+Liver Diseases
+Cerebrovascular Disorders
+functionless pituitary adenoma
+"Diabetes Mellitus, Type 1"
+Myelodysplastic Syndromes
+pancreatic endocrine carcinoma
+pituitary Neoplasms
+testicular germ cell Neoplasms
+"Rhabdomyosarcoma, Embryonal"
+syndrome
+"Cardiomyopathy, Dilated"
+diabetic retinopathy
+nephrolithiasis
+Burkitt lymphoma
+myopia
+"Lymphoma, Large-Cell, Anaplastic"
+Dengue
+frontotemporal dementia
+IMAGe syndrome
+Kidney Diseases
+"Multiple Sclerosis, Relapsing-Remitting"
+hemangioma
+Gastrointestinal Stromal Tumors
+glucose metabolism disease
+hematologic Neoplasms
+renal carcinoma
+asthma
+cleft lip
+plasmacytoma
+chondrosarcoma
+Spinocerebellar Ataxias
+pneumonia
+Angelman syndrome
+colon adenocarcinoma
+ovarian clear cell carcinoma
+Cardiomyopathies
+brain glioma
+oligodendroglioma
+Neurodegenerative Diseases
+"Scleroderma, Systemic"
+"Renal Insufficiency, Chronic"
+dyskeratosis congenita
+chordoma
