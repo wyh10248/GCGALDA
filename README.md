@@ -1,5 +1,5 @@
 ### GCGALDA
-GCGALDA： Prediction of lncRNA-disease association based on graph convolution and graph attention 
+A method of enhancing heterogeneous graph representation for predicting the associations between lncRNAs and diseases
 
 The  Workflow of GCGALDA
 ![GCGA](https://github.com/wyh10248/GCGALDA/assets/127478574/c60a2073-4648-45aa-8946-0a163b1131d3)
